@@ -1,11 +1,8 @@
-# SocialSearch
-Yet another script to search for social links.
-
 <h1 align="center">
   <br>
   <a href="https://github.com/mkdirlove/SocialSearch"><img src="https://github.com/mkdirlove/SocialSearch/blob/main/logo.png" alt="SocialSearch"></a>
   <br>
-  Yet another tool for scraping GitHub repositories.
+  Yet another script to search for social links.
   <br>
 </h1>
 
